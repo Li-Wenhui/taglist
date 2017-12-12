@@ -1,4 +1,4 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=273
+This repo is forked from http://www.vim.org/scripts/script.php?script_id=273
 
 The "Tag List" plugin is a source code browser plugin for Vim and
 provides an overview of the structure of source code files and allows
